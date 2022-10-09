@@ -1,7 +1,7 @@
 {
-  "name": "coinbasebot",
+  "name": "ChickenDropBot",
   "version": "1.0.0",
-  "description": "coinbasebot",
+  "description": "ChickenDropBot",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
